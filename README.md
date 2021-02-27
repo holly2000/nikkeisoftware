@@ -1,2 +1,1 @@
-# puyopuyo
-ぷよぷよ
+# nikkeisoftware
